@@ -1,0 +1,84 @@
+{
+  "config": {
+    "apiKey": "FRK-PRO-MASTER-KEY-2026",
+    "recoveryEmail": "emailwaqas7@gmail.com",
+    "supabaseUrl": "",
+    "supabaseAnonKey": "",
+    "authMode": "local",
+    "allowMasterApiKeyBypass": true,
+    "adminPassword": "FRK#9xQ$8mK2@vT7!2026",
+    "whatsappUrl": "https://chat.whatsapp.com/G1yKmNVIntiLx7c9KX5zEu",
+    "telegramUrl": "https://t.me/frking00",
+    "phone": "+966554573612",
+    "developer": "@codetrader"
+  },
+  "licenses": [
+    {
+      "id": "lic_1792879273131_lajdq",
+      "license_key": "FRK-5433-7573-4932",
+      "full_name": "Test User",
+      "phone": "+966554573612",
+      "email": "waqas@test.com",
+      "amount": "25 USD",
+      "status": "approved",
+      "duration_label": "3 Months",
+      "expires_at": "2027-01-22T22:01:21.627Z",
+      "lifetime": false,
+      "max_devices": 2,
+      "license_devices": [
+        "phone-waqas-01"
+      ],
+      "created_at": "2026-10-24T22:01:13.131Z",
+      "updated_at": "2026-10-24T22:01:24.747Z"
+    },
+    {
+      "id": "lic_master_001",
+      "license_key": "FRK-PRO-MASTER-KEY-2026",
+      "full_name": "VIP Master Admin",
+      "phone": "+966554573612",
+      "email": "emailwaqas7@gmail.com",
+      "amount": "VIP Master Key",
+      "status": "approved",
+      "duration_label": "Lifetime",
+      "expires_at": null,
+      "lifetime": true,
+      "max_devices": 10,
+      "license_devices": [],
+      "created_at": "2026-10-24T22:01:06.026Z",
+      "updated_at": "2026-10-24T22:01:06.026Z"
+    },
+    {
+      "id": "lic_vip_waqas",
+      "license_key": "FRK-7482-9912-3401",
+      "full_name": "Waqas Pro Trader",
+      "phone": "+966554573612",
+      "email": "codewithwaqas.dev@gmail.com",
+      "amount": "100 USD",
+      "status": "approved",
+      "duration_label": "3 Months",
+      "expires_at": "2027-01-22T22:01:06.026Z",
+      "lifetime": false,
+      "max_devices": 3,
+      "license_devices": [],
+      "created_at": "2026-10-23T22:01:06.027Z",
+      "updated_at": "2026-10-24T22:01:06.027Z"
+    },
+    {
+      "id": "lic_pending_alex",
+      "license_key": "FRK-5510-4492-8821",
+      "full_name": "Alex Rivera",
+      "phone": "+14155552671",
+      "email": "alex.trader@gmail.com",
+      "amount": "20 USD",
+      "status": "pending",
+      "duration_label": "1 Month",
+      "expires_at": "2026-11-23T22:01:06.027Z",
+      "lifetime": false,
+      "max_devices": 1,
+      "license_devices": [],
+      "created_at": "2026-10-24T21:01:06.027Z",
+      "updated_at": "2026-10-24T21:01:06.027Z"
+    }
+  ],
+  "signals": []
+}
